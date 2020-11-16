@@ -1,0 +1,16 @@
+{
+    "Ecole":"ESGI",
+    "Pays":"France",
+    "Ville":"Paris",
+    "Classes":["SRC1", "SRC2", "SRC3"],
+    "Cours_electif":{
+            "Prof":"Igor",
+            "Programme":{
+                "Lundi":"intro et rest",
+                "Mardi":"terraform",
+                "Mercredi":"exam"
+            }
+ 
+    }
+ 
+}
